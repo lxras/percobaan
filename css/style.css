@@ -1,0 +1,171 @@
+    body {
+      background-color: #FFFDDE;
+      font-family: helvetica;
+      margin: 8px;
+    }
+
+    .reviews {
+      background-color: #FFFDDE;
+      font-family: helvetica;
+    }
+
+    .movierecs {
+      margin-left: 30px;
+      margin-top: 1px;
+    }
+
+    .divi {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+    }
+
+    .beginagain {
+      background-color: #FFD460;
+      padding: 20px 20px 20px 20px;
+      border-radius: 25px;
+      margin: 1px 15px 15px 15px;
+    }
+
+    .m1 {
+      margin: 0.1px 0.1px 10px 0.1px;
+      color: #2D4059;
+      padding-left: 5px;
+    }
+
+    .content1 {
+      margin: 20px 20px 20px 40px;
+      color: #2D4059;
+    }
+
+    hr {
+      border-style: dotted none none;
+      border-color: #B5EAEA;
+      border-width: 10px;
+      height: 25px;
+      width: 5%;
+    }
+
+    h1 {
+      color: #F38BA0;
+    }
+
+    h2 {
+      color: #F38BA0;
+    }
+
+    .fotolaras {
+      border-radius: 100%;
+    }
+
+    img {
+      border-radius: 10%;
+    }
+
+    .em {
+      font-style: italic;
+    }
+
+    .totoro {
+      background-color: #064635;
+      padding: 20px 20px 20px 20px;
+      border-radius: 25px;
+      margin: 1px 15px 15px 15px;
+    }
+
+    .m2 {
+      margin: 0.1px 0.1px 10px 0.1px;
+      color: #F4EEA9;
+      padding-left: 5px;
+    }
+
+    .content2 {
+      margin: 20px 20px 20px 40px;
+      color: #F4EEA9;
+    }
+
+    .homebutton {
+      display: flex;
+      align-items: center;
+      flex-direction: row-reverse;
+      margin-left: 30px;
+    }
+
+    .hb1 {
+      background-color: #d11d53;
+      border-color: white;
+      border-radius: 100%;
+      padding: 10px;
+      margin: 10px 30px 10px 20px;
+      /* NOTE: bottom marginnya ga guna karena kena override sama hb2 n 3 */
+    }
+
+    .forrest {
+      background-color: #10274d;
+      padding: 20px 20px 20px 20px;
+      border-radius: 25px;
+      margin: 1px 15px 15px 15px;
+    }
+
+    .m3 {
+      margin: 0.1px 0.1px 10px 0.1px;
+      color: #ccdaf0;
+      padding-left: 5px;
+    }
+
+    .content3 {
+      margin: 20px 20px 20px 40px;
+      color: #ccdaf0;
+    }
+
+    .august {
+      background-color: #362b23;
+      padding: 20px 20px 20px 20px;
+      border-radius: 25px;
+      margin: 1px 15px 15px 15px;
+    }
+
+    .m4 {
+      margin: 0.1px 0.1px 10px 0.1px;
+      color: #eddec5;
+      padding-left: 5px;
+    }
+
+    .content4 {
+      margin: 20px 20px 20px 40px;
+      color: #eddec5;
+    }
+
+    .contacts {
+      margin: 1px 1px 10px 20px;
+    }
+
+    .form {
+      background-color: #FFD460;
+      padding: 10px 20px 30px 30px;
+      border-radius: 25px;
+      margin: 1px 15px 15px 15px;
+    }
+
+    .mp3 {
+      margin: 15px 15px 20px 15px;
+      padding: 15px;
+      border-radius: 10px;
+      background-color: #F38BA0;
+    }
+
+    .footer {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      justify-content: center;
+      margin-top: 25px;
+    }
+
+    .footertext {
+      text-align: center;
+      color: #E892A3;
+      font-family: helvetica;
+      font-style: italic;
+      font-weight: 100;
+    }
